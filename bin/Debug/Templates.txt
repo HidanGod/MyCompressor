@@ -1,0 +1,10 @@
+INFO
+Started processing user request. Id = 
+Doing some complicated stuff.. Random numbers are: 
+Finished processing user request with id = 
+[BackgroundDaemon] Processing data 
+Here's some useful guids:
+[BackgroundDaemon] Finished iteration in 
+System.InvalidOperationException: Oh no! An error occurred!
+[BackgroundDaemon] Starting iteration 
+[Metrics] Cpu: 0.68%; Memory: 
