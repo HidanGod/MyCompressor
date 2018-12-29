@@ -1,7 +1,0 @@
-E:\проэкты\MyCompressor\MyCompressor\bin\Debug\MyCompressor.exe.config
-E:\проэкты\MyCompressor\MyCompressor\bin\Debug\MyCompressor.exe
-E:\проэкты\MyCompressor\MyCompressor\bin\Debug\MyCompressor.pdb
-E:\проэкты\MyCompressor\MyCompressor\obj\Debug\MyCompressor.csproj.CoreCompileInputs.cache
-E:\проэкты\MyCompressor\MyCompressor\obj\Debug\MyCompressor.exe
-E:\проэкты\MyCompressor\MyCompressor\obj\Debug\MyCompressor.pdb
-E:\проэкты\MyCompressor\MyCompressor\obj\Debug\MyCompressor.csprojAssemblyReference.cache
